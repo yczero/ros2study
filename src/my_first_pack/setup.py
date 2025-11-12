@@ -29,7 +29,8 @@ setup(
             'my_publisher = my_first_pack.my_publisher:main',
             'my_custom_publisher = my_first_pack.my_custom_publisher:main',
             'turtle_cmd_and_pose = my_first_pack.turtle_cmd_and_pose:main',
-            'my_service_server = my_first_pack.my_service_server:main'
+            'my_service_server = my_first_pack.my_service_server:main',
+            'dist_turtle_action_server = my_first_pack.dist_turtle_action_server:main'
         ],
     },
 )
